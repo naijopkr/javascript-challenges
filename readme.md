@@ -1,56 +1,62 @@
-# JavaScript Challenges
+# Desafios JavaScript
 
-A collection of JavaScript coding challenges.
+Coleção de desafios de programação em JavaScript
 
-## Getting Started
+## Começando
 
-The only dependencies in this repo are for running the tests, which are written
-in Tape and Sinon.
+As únicas dependências neste repositório são para rodar os testes, que estão
+escritos utilizando *Tape* e *Sinon*
 
-Install the dependencies
+Instalando as dependências
 
 ```
 npm i
 ```
 
-Then, in each challenge folder, you can run the following to see the tests for
-that challenge.
+Em seguida, para cada pasta/diretório de desafio, você pode rodar os seguintes
+comandos para ver os testes do respectivo desafio.
 
 ```
 node <challenge>-test.js
 ```
 
-## Solving Challenges
+## Resolvendo Desafios
 
-This repo is only a set of challenges, it does not include the answers to any of
-the challenges.
+Este repositório contém apenas uma coleção de desafios, ele não inclui as respostas
+para nenhum dos desafios.
 
-If you implement a solution of your own, please **do not** post it publicly on
-this repository. Opening an issue or a pull request with a solution spoils the
-experience of the challenge for other developers who find this repository.
+Se você implementar uma solução, por favor, **não** publique neste respositório.
+Abrir um *issue* ou *pull request* com a solução estraga a experiência do desafio
+para outros desenvolvedores que encontrarem este repositório.
 
-## Challenges
+## Desafios
 
-### Beginner
+### Iniciante
 
-* [Babylonian square root method](/babylonian-method/)
-* [Number frequency](/number-frequency/)
+* [Método babilônico para raiz quadrada](/babylonian-method/)
+* [Frequência do número](/number-frequency/)
 
-### Intermediate
+### Intermediário
 
-* [Stack machine calculator](/stack-machine-calculator/)
-* [Target sum exists](/target-sum-exists/)
-* [Balanced Parentheses](/balanced-parens/)
-* [Add eventing](/add-eventing/)
+* [Máquina de calcular em pilha](/stack-machine-calculator/)
+* [Existe soma no alvo](/target-sum-exists/)
+* [Parênteses balanceados](/balanced-parens/)
+* [Adicionar evento](/add-eventing/)
 
-### Advanced
+### Avançado
 
-* [Object diffing](/object-diff/)
-* [Recreate setInterval](/setinterval/)
-* [Recreate Promise.all](/promise-dot-all/)
+* [Diferenciando objetos](/object-diff/)
+* [Recriar setInterval](/setinterval/)
+* [Recriar Promise.all](/promise-dot-all/)
 
-## Relevant Reading
+## Leitura relevante
 
-* [10 Interview Questions Every JavaScript Developer Should Know][js interview questions article]
+* [10 Questões Para Entrevista Que Todo Desenvolvedor JavaScript Deveria Saber (em inglês)][js interview questions article]
 
 [js interview questions article]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+* [10 Questões Para Entrevista Que Todo Desenvolvedor JavaScript Deveria Saber (em português)][js interview questions article pt-br]
+
+[js interview questions article pt-br]:
+https://medium.com/@arielbarcellos/10-quest%C3%B5es-de-entrevista-que-todo-desenvolvedor-javascript-deve-saber-6aabb4c4af6b
+

@@ -55,8 +55,3 @@ para outros desenvolvedores que encontrarem este repositório.
 
 [js interview questions article]: https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
-* [10 Questões Para Entrevista Que Todo Desenvolvedor JavaScript Deveria Saber (em português)][js interview questions article pt-br]
-
-[js interview questions article pt-br]:
-https://medium.com/@arielbarcellos/10-quest%C3%B5es-de-entrevista-que-todo-desenvolvedor-javascript-deve-saber-6aabb4c4af6b
-
